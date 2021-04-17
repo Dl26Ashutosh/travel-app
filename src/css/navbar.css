@@ -1,0 +1,31 @@
+.btn-Offers
+{
+    background-color: maroon  !important;
+    color: white !important;
+    font-weight: 600 !important;
+    margin-right: 5px !important;
+}
+.btn-login
+{
+    border: 1px solid maroon !important;
+    color: maroon !important;
+    font-weight: 600 !important;
+}
+.nav-link
+{
+    color: maroon !important;
+    font-weight: 600 !important;
+ 
+}
+
+.navbar-brand
+{
+    color: maroon !important;
+    font-size: 30px !important;
+}
+.navbar-subtitle
+{
+    font-size: 12px !important;
+    text-align: center;
+    margin-top: -10px;
+}
